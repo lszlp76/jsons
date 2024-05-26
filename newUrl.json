@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "message": "ok",
+  "messageTR": "ok",
+  "systemTime": 1716751724,
+  "endpoint": "pharmacies-on-duty",
+  "rowCount": 2,
+  "creditUsed": 1,
+  "data": [
+    {
+      "pharmacyID": 5472,
+      "pharmacyName": "Bilgin Eczanesi",
+      "address": "Ömerbey Mahallesi, Deniz Caddesi, 2.Barış Sokak, Akarsu Sitesi No:4/B-C Mudanya / Bursa",
+      "city": "Bursa",
+      "district": "Mudanya",
+      "town": "",
+      "directions": "",
+      "phone": "0(224)544-84-74",
+      "phone2": "",
+      "pharmacyDutyStart": "2024-05-26 08:30:00",
+      "pharmacyDutyEnd": "2024-05-27 08:30:00",
+      "latitude": 40.369699,
+      "longitude": 28.891523
+    },
+    {
+      "pharmacyID": 24961,
+      "pharmacyName": "Doğa Eczanesi",
+      "address": "Yalı Mahallesi, Atatürk Caddesi No:74/A Mudanya / Bursa",
+      "city": "Bursa",
+      "district": "Mudanya",
+      "town": "Güzelyalı",
+      "directions": null,
+      "phone": "0 (224) 224-84-78",
+      "phone2": null,
+      "pharmacyDutyStart": "2024-05-26 08:30:00",
+      "pharmacyDutyEnd": "2024-05-27 01:00:00",
+      "latitude": 40.357595,
+      "longitude": 28.917909
+    }
+  ]
+}
